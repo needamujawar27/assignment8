@@ -1,0 +1,28 @@
+.sub{
+    background-color: lightcyan;
+    height: 470px;
+    border: 5px inset red;
+    padding: 10px;
+    margin: auto;
+    width: 1260px;
+    margin-top: 90px;
+    
+}
+.main1{
+    background-color:darkslateblue;
+    height: 180px;
+    width: 200px;
+    border: 4px inset red;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.main2{
+    height: 180px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border: 4px inset darkslateblue;
+}
